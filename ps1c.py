@@ -54,4 +54,4 @@ if found:   # Output if found = True
     print('Best savings rate:', best_portion_saved / 10000)
     print('Steps in bisection search:', bisection_steps)
 else:       # Output if found = False
-    print('Is is not possible to pay the down payment in three years')
+    print('It is not possible to pay the down payment in three years')
